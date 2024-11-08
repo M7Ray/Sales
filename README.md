@@ -57,6 +57,8 @@
 
      <img width="689" alt="Sales Overview" src="https://github.com/user-attachments/assets/e6a81d4e-92b9-406b-92cb-99fa250ce0cd">
      <img width="686" alt="Customer Details" src="https://github.com/user-attachments/assets/eda3c33f-d822-4ef6-b361-9ea52d3078e7">
+     <img width="687" alt="Product Details" src="https://github.com/user-attachments/assets/ade0ec07-e348-4fcb-bf6b-921cb1951669">
+
 
 
 
