@@ -53,5 +53,6 @@
   strategies.
 
 - CONCLUSION
+
   The project is a strong tool for examining and comprehending several facets of sales performance, consumer behavior, and product popularity. It gives stakeholders the   
   ability to track important indicators, spot trends, and make data-driven decisions by combining data from many sources into interactive Power BI dashboards.
