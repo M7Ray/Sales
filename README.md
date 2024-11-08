@@ -23,9 +23,9 @@
     * under FACT_InternetSales:
         * Sales = SUM(FACT_InternetSales[SalesAmount])
     * under FACT_Budget:
-        Budget Amount = SUM(FACT_Budget[Budget])
-        Sales / Budget Amount = DIVIDE ([Sales], [Budget Amount])
-        Sales - Budget = [Sales] - [Budget Amount]
+        * Budget Amount = SUM(FACT_Budget[Budget])
+        * Sales / Budget Amount = DIVIDE ([Sales], [Budget Amount])
+        * Sales - Budget = [Sales] - [Budget Amount]
   
 - Data Cleaning & Transformation (SQL)
   The extracted csv tables were extracted using SQL.
