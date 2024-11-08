@@ -34,7 +34,6 @@
       Sales by Customer City
       Sales by Top 10 Customers
       Monthly Sales Table by Customer
-   * Customer 
    * Product Details:
     Key visuals include:
       Sales by Top 10 Products
