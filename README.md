@@ -1,5 +1,5 @@
 # Sales Performance
-- Project Overview
+- PROJECT OVERVIEW
 
   Using SQL Server and Power BI for data processing, storage, and visualization, the project offers a comprehensive study of sales performance. The dashboards created are:    Sales Overview, Customer Details, and Product Details.
 
@@ -16,7 +16,7 @@
     * FACT_InternetSales: A fact table that records all internet sales transactions, enabling analysis of sales performance over time. 
     * SalesBudget: Contains budgetary data for financial comparison, helping analyze performance against targets. 
 
-- Power BI Dashboards
+- POWER BI DASHBOARDS
    * Sales Overview:
     Key visuals include:
       Sales by Top 10 Customers
@@ -34,3 +34,7 @@
       Sales by Customer City
       Monthly Sales Table by Product
 
+- INSIGHTS
+
+  The project enables comprehensive sales analysis, supporting business decisions related to customer engagement, product performance, and geographic sales distribution. By   comparing actual sales with budgeted targets, this dashboard setup provides a robust tool for identifying growth opportunities and optimizing product and customer       
+  strategies.
