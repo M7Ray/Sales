@@ -1,7 +1,8 @@
 # Sales Performance
 - PROJECT OVERVIEW
 
-  Using SQL Server and Power BI for data processing, storage, and visualization, the project offers a comprehensive study of sales performance. The dashboards created are:    Sales Overview, Customer Details, and Product Details.
+  Using SQL Server and Power BI for data processing, storage, and visualization, the project offers a comprehensive study of sales performance.
+  The dashboards created are: Sales Overview, Customer Details, and Product Details.
   DB used is can be accessed [here](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
 
   Outcomes:
