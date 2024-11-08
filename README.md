@@ -1,18 +1,18 @@
 # Project Overview
 
-Using SQL Server and Power BI for data processing, storage, and visualization, the project offers a comprehensive study of sales performance. The dashboards created are: Sales Overview, Customer Details, and Product Details.
+  Using SQL Server and Power BI for data processing, storage, and visualization, the project offers a comprehensive study of sales performance. The dashboards created are:    Sales Overview, Customer Details, and Product Details.
 
-The main tables are:
-
-DIM_Calendar: This dimension table contains attributes for date-based analysis. Key fields include:
-
-DIM_Customers: Stores customer information, essential for customer segmentation and analysis. 
-
-DIM_Products: Contains product-related data for sales and inventory analysis.
-
-FACT_InternetSales: A fact table that records all internet sales transactions, enabling analysis of sales performance over time. 
-
-SalesBudget: Contains budgetary data for financial comparison, helping analyze performance against targets. 
+  Outcomes:
+    * Sold Quantity of each product, to which clients and how it has been over time.
+    * Identify each sales person work on different products and customers.
+    * Measure the numbers against budget and compare the values against performance.
+  
+  The main tables are:
+    * DIM_Calendar: This dimension table contains attributes for date-based analysis. Key fields include:
+    * DIM_Customers: Stores customer information, essential for customer segmentation and analysis. 
+    * DIM_Products: Contains product-related data for sales and inventory analysis.
+    * FACT_InternetSales: A fact table that records all internet sales transactions, enabling analysis of sales performance over time. 
+    * SalesBudget: Contains budgetary data for financial comparison, helping analyze performance against targets. 
 
 # Power BI Dashboards
 Sales Overview:
