@@ -1,4 +1,4 @@
-
+# Sales Performance
 - Project Overview
 
   Using SQL Server and Power BI for data processing, storage, and visualization, the project offers a comprehensive study of sales performance. The dashboards created are:    Sales Overview, Customer Details, and Product Details.
