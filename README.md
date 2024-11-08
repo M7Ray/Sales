@@ -55,6 +55,9 @@
       Sales by Customer City
       Monthly Sales Table by Product
 
+     <img width="689" alt="Sales Overview" src="https://github.com/user-attachments/assets/e6a81d4e-92b9-406b-92cb-99fa250ce0cd">
+
+
 - INSIGHTS
 
   The project enables comprehensive sales analysis, supporting business decisions related to customer engagement, product performance, and geographic sales distribution. By   comparing actual sales with budgeted targets, this dashboard setup provides a robust tool for identifying growth opportunities and optimizing product and customer       
