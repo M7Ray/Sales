@@ -17,8 +17,16 @@
     * DIM_Customers: Stores customer information, essential for customer segmentation and analysis. 
     * DIM_Products: Contains product-related data for sales and inventory analysis.
     * FACT_InternetSales: A fact table that records all internet sales transactions, enabling analysis of sales performance over time. 
-    * SalesBudget: Contains budgetary data for financial comparison, helping analyze performance against targets. 
+    * SalesBudget: Contains budgetary data for financial comparison, helping analyze performance against targets.
 
+  Created Measures:
+    under FACT_InternetSales:
+      Sales = SUM(FACT_InternetSales[SalesAmount])
+    under FACT_Budget:
+      Budget Amount = SUM(FACT_Budget[Budget])
+      Sales / Budget Amount = DIVIDE ([Sales], [Budget Amount])
+      Sales - Budget = [Sales] - [Budget Amount]
+  
 - Data Cleaning & Transformation (SQL)
   The extracted csv tables were extracted using SQL.
 
